@@ -10,5 +10,5 @@ A user of these application can seamlessly purchase airtime of any network for a
 # How To Install and Run XpressPayment Airtime Application
 
 1. Clone the repo https://github.com/chrisogwuche/XpressPayment_Airtime_Service
-2. Install docker (For Running Testing)
+2. Install docker (To run testing)
 3. Run docker
